@@ -1,6 +1,9 @@
 Projeto desenvolvido na disciplina de Programação Web.
 
+
 O projeto é um CRUD que permite relacionar os Pokémons com seus Treinadores utilizando Laravel e com autenticação gerada pelo Laravel Breeze e estilizado com Tailwind CSS.
+
+
 
 
 Funcionalidades:
